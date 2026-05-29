@@ -1,0 +1,5 @@
+{
+  "name": "Vista Accounting Pro",
+  "description": "A comprehensive accounting system with automated transaction recording, multi-account ledgers, and real-time financial statements (Balance Sheet, Income Statement, Cash Flow, Trial Balance).",
+  "requestFramePermissions": []
+}
